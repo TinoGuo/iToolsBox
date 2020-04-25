@@ -5,7 +5,7 @@ A desktop animated webp tools, to help generate animated webp from Gif or sequen
 
 ## Screenshot
 
-![](img/screenshot_detail.png)
+![](img/Screenshot.png)
 
 ## Downloads 💎
 Download the latest from [page](https://github.com/TinoGuo/iToolsBox/releases)
@@ -33,5 +33,5 @@ Download the latest from [page](https://github.com/TinoGuo/iToolsBox/releases)
 
 - [ ] Layout optimization   
 - [ ] Process optimization  
-- [ ] Translation
+- [X] Translation
 
