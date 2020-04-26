@@ -1,4 +1,4 @@
-![](https://img.shields.io/github/v/release/TinoGuo/iToolsBox) ![](https://img.shields.io/github/downloads/TinoGuo/iToolsBox/total)
+![Maintenance](https://img.shields.io/badge/Maintained%3F-yes-green.svg) ![](https://img.shields.io/github/v/release/TinoGuo/iToolsBox) ![](https://img.shields.io/github/downloads/TinoGuo/iToolsBox/total)
 # iToolsBox
 
 A desktop animated webp tools, to help generate animated webp from Gif or sequence images.
